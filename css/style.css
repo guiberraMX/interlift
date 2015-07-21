@@ -150,7 +150,7 @@ img {
 	-moz-transition: all 0.5s;
 	transition: all 0.5s;
 	background:rgb(255, 255, 255);
-	background:rgba(244, 244, 244, 0.95);
+	background:rgba(244, 244, 244, );
 	box-shadow:0 1px 10px rgba(31, 50, 63, 0.25);
 }
 .ha-header-perspective {
@@ -901,7 +901,7 @@ img {
 
 .parallax-overlay-1 { background-image: url('../images/overlay-pattern.png'); }
 .parallax-overlay-2 { background-image: url('../images/overlay-pattern.png'); }
-.parallax-overlay-3 { background-image: url('../images/overlay-pattern.png'); }
+.parallax-overlay-3 { background-image: url(''); }
 .parallax-overlay-4 { background-image: url('../images/overlay-pattern.png'); }
 .parallax-overlay-5 { background-image: url('../images/overlay-pattern.png'); }
 .parallax-overlay-6 { background-image: url('../images/overlay-pattern.png'); }
