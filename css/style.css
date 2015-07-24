@@ -59,6 +59,15 @@ body {
 	background:#FFFFFF;
 }
 
+
+
+
+
+
+.dead h3{
+	font-size: 2em !important;
+}
+
 /* #Typography
 ================================================== */
 
@@ -401,8 +410,8 @@ img {
 .icon-box { 
 	position:relative;
 	margin-bottom:40px;
-	width:150px;
-	height:150px;
+	width:80px;
+	
 	float:left;
 	margin-right:20px;
 }
@@ -872,10 +881,24 @@ img {
 .js .parallax-slogan {
 	opacity:1;
 }
+
+
+
 .parallax-content {
 	color:#778090;
 	position:relative;
+	
 }
+
+.parallax-2content {
+	color:#fff;
+	position:relative;
+	background-color: rgba(200,200,200,0.5);
+	margin-top: 80px;
+
+}
+
+
 .parallax-content .parallax-header {
 	padding:150px 0;
 }
@@ -908,7 +931,7 @@ img {
 .parallax-overlay-6 { background-image: url('../images/overlay-pattern.png'); }
 .parallax-overlay-7 { background-image: url('../images/overlay-pattern.png'); }
 
-.parallax-overlay-666 { background-image: url('../images/bginter.jpg'); }
+.parallax-overlay-666 { background-image: url('../images/bginter.jpg'); background-position: center top; width: 100%;  }
 .parallax-overlay-33 { background-color: #fff; }
 
 .parallax-overlay {
