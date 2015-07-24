@@ -899,13 +899,17 @@ img {
 .parallax-banner-7 { background:url('../images/404.jpg'); }
 
 
+
 .parallax-overlay-1 { background-image: url('../images/overlay-pattern.png'); }
 .parallax-overlay-2 { background-image: url('../images/overlay-pattern.png'); }
-.parallax-overlay-3 { background-image: url(''); }
+.parallax-overlay-3 { background-image: url('../images/overlay-pattern.png'); }
 .parallax-overlay-4 { background-image: url('../images/overlay-pattern.png'); }
 .parallax-overlay-5 { background-image: url('../images/overlay-pattern.png'); }
 .parallax-overlay-6 { background-image: url('../images/overlay-pattern.png'); }
 .parallax-overlay-7 { background-image: url('../images/overlay-pattern.png'); }
+
+.parallax-overlay-666 { background-image: url('../images/bginter.jpg'); }
+.parallax-overlay-33 { background-color: #fff; }
 
 .parallax-overlay {
 	position:absolute;
