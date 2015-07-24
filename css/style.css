@@ -382,7 +382,7 @@ img {
 ================================================== */
 
 .service-section .parallax-header {
-	padding-bottom:70px !important;
+	padding-bottom:20px !important;
 }
 .info { overflow:hidden; text-align:left; }
 .service-section {
@@ -870,7 +870,7 @@ img {
 }
 .js .parallax-title,
 .js .parallax-slogan {
-	opacity:0;
+	opacity:1;
 }
 .parallax-content {
 	color:#778090;
