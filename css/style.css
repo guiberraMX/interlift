@@ -66,6 +66,7 @@ body {
 
 .dead h3{
 	font-size: 2em !important;
+	font-family: 'Exo', sans-serif;
 }
 
 /* #Typography
@@ -777,6 +778,8 @@ img {
 .contact-form-holder {
 	padding:20px;
 	background:rgba(255, 255, 255, 0.15);
+	margin-right: 10%;
+	margin-left: 10%;
 }
 
 /* #Social Newtwork Section
@@ -893,8 +896,9 @@ img {
 .parallax-2content {
 	color:#5194ba;
 	position:relative;
-	background-color: rgba(249,249,249,0.8);
+	background-color: rgba(249,249,249,0.85);
 	margin-top: 80px;
+	margin-bottom: 80px;
 
 }
 
@@ -1133,8 +1137,8 @@ textarea {
 	-webkit-background-clip: padding;
 		-moz-background-clip: padding;
 			background-clip: padding-box;
-	background:rgb(0, 0, 0);
-	background:rgba(0, 0, 0, 0.50);
+	background-color:#d1dde4;
+	background-color:#d1dde4;
 	-webkit-border-radius:0;
 		-moz-border-radius:0;
 			border-radius: 0;
